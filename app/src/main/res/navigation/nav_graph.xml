@@ -27,8 +27,9 @@
             android:name="name"
             app:argType="string" />
         <argument
-            android:name="Email"
+            android:name="email"
             app:argType="string" />
+
     </fragment>
     <fragment
         android:id="@+id/thirdFragment"
